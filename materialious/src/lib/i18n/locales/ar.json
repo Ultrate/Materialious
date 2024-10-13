@@ -13,5 +13,8 @@
 	"deleteAllHistory": "حذف كل التاريخ",
 	"skipping": "التخطي",
 	"replies": "الردود",
-	"region": "منطقة"
+	"region": "منطقة",
+	"noResult": "لا توجد نتائج",
+	"language": "لغة",
+	"transcript": "نص"
 }
