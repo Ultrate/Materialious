@@ -8,5 +8,6 @@
 	"create": "إنشاء",
 	"title": "عنوان",
 	"searchPlaceholder": "البحث (ctrl + k)",
-	"delete": "حذف"
+	"delete": "حذف",
+	"donate": "تبرع"
 }
