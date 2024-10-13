@@ -5,5 +5,8 @@
 	"views": "المشاهدات",
 	"videos": "فيديوهات",
 	"cancel": "إلغاء",
-	"create": "إنشاء"
+	"create": "إنشاء",
+	"title": "عنوان",
+	"searchPlaceholder": "البحث (ctrl + k)",
+	"delete": "حذف"
 }
