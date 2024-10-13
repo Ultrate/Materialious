@@ -71,11 +71,20 @@
 			"youtubeLink": "Скопировать ссылку на Youtube"
 		},
 		"download": "Скачать",
+		"downloadSteps": {
+			"merging": "Объединение видео и аудио вместе",
+			"video": "Загрузка видео",
+			"audio": "Загрузка аудио",
+			"ffmpeg": "Загрузка библиотеки и компонентов ffmpeg",
+			"worker": "Загрузка ffmpeg worker"
+		},
 		"noPlaylists": "Нет списков воспроизведения",
 		"unableToLoadComments": "Невозможно загрузить комментарии",
-		"addToPlaylist": "Добавить в плейлист"
+		"addToPlaylist": "Добавить в плейлист",
+		"youtubeJsFallBack": "Используется резервное локальное видео"
 	},
 	"layout": {
+		"interface": "Интерфейс",
 		"star": "Поставить нам звезду на GitHub!",
 		"syncParty": "Совместный просмотр",
 		"syncPartyWarning": "Помните, ваш IP должен быть доступен для тех кого вы приглашаете.",

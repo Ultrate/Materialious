@@ -83,7 +83,8 @@
 		},
 		"noPlaylists": "Oynatma listesi yok",
 		"unableToLoadComments": "Yorumlar yüklenemiyor",
-		"addToPlaylist": "Oynatma listesine ekle"
+		"addToPlaylist": "Oynatma listesine ekle",
+		"youtubeJsFallBack": "Yerel video yedeklemesi kullanılıyor"
 	},
 	"layout": {
 		"interface": "Arayüz",

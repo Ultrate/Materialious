@@ -51,7 +51,50 @@
 		"live": "يعيش",
 		"failedToLoadImage": "فشل تحميل الصورة"
 	},
+	"pages": {
+		"home": "بيت",
+		"trending": "الأكثر رواجًا",
+		"subscriptions": "الاشتراكات",
+		"history": "تاريخ",
+		"playlists": "قوائم التشغيل"
+	},
+	"subscribers": "المشتركين",
+	"unsubscribe": "إلغاء الاشتراك",
+	"loginRequired": "مطلوب تسجيل الدخول",
+	"player": {
+		"audioOnly": "صوت فقط",
+		"theatreMode": "وضع المسرح",
+		"share": {
+			"title": "يشارك",
+			"materialiousLink": "نسخ الرابط المادي",
+			"invidiousRedirect": "نسخ رابط إعادة التوجيه Invidious",
+			"youtubeLink": "نسخ رابط اليوتيوب"
+		},
+		"download": "تحميل",
+		"downloadSteps": {
+			"merging": "دمج الفيديو والصوت معًا",
+			"video": "تحميل الفيديو",
+			"audio": "تحميل الصوت",
+			"ffmpeg": "تنزيل مكتبة ffmpeg ومكوناتها",
+			"worker": "تنزيل ffmpeg worker"
+		},
+		"noPlaylists": "لا توجد قوائم تشغيل",
+		"unableToLoadComments": "غير قادر على تحميل التعليقات",
+		"addToPlaylist": "أضف إلى قائمة التشغيل",
+		"youtubeJsFallBack": "يتم استخدام نسخة احتياطية للفيديو المحلي"
+	},
 	"layout": {
+		"interface": "الواجهة",
+		"star": "قم بإضافتنا على Github!",
+		"syncParty": "حفلة المزامنة",
+		"syncPartyWarning": "يرجى ملاحظة أن عنوان IP الخاص بك سيكون مرئيًا للمستخدمين الذين تدعوهم.",
+		"startSyncParty": "بدء حفلة المزامنة",
+		"endSyncParty": "نهاية حفلة المزامنة",
+		"notifications": "إشعارات",
+		"noNewNotifications": "لا يوجد إشعارات جديدة هنا",
+		"settings": "إعدادات",
+		"login": "تسجيل الدخول",
+		"logout": "تسجيل الخروج",
 		"customize": "تخصيص",
 		"theme": {
 			"theme": "سمة",
@@ -103,5 +146,5 @@
 			"titleOnly": "العنوان فقط"
 		}
 	},
-	"subscribe": "شترك"
+	"subscribe": "اشترك"
 }

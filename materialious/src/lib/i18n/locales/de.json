@@ -71,12 +71,22 @@
 			"youtubeLink": "YouTube Link kopieren"
 		},
 		"download": "Herunterladen",
+		"downloadSteps": {
+			"merging": "Video und Audio zusammenführen",
+			"video": "Video wird heruntergeladen",
+			"audio": "Audio herunterladen",
+			"ffmpeg": "Herunterladen der ffmpeg-Bibliothek und -Komponenten",
+			"worker": "ffmpeg worker wird heruntergeladen"
+		},
 		"noPlaylists": "Keine Wiedergabelisten",
 		"unableToLoadComments": "Laden der Kommentare fehlgeschlagen",
-		"addToPlaylist": "Zur Wiedergabeliste hinzufügen"
+		"addToPlaylist": "Zur Wiedergabeliste hinzufügen",
+		"youtubeJsFallBack": "Lokales Video-Fallback wird verwendet"
 	},
 	"layout": {
+		"interface": "Schnittstelle",
 		"star": "Sternchen auf GitHub vergeben",
+		"syncParty": "Synchronisationsparty",
 		"syncPartyWarning": "Bitte beachten Sie, dass Ihre IP für die von Ihnen eingeladenen Benutzer sichtbar ist.",
 		"startSyncParty": "Sync-Party starten",
 		"endSyncParty": "Sync-Party beenden",
