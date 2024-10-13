@@ -76,6 +76,9 @@
 			"video": "تحميل الفيديو",
 			"audio": "تحميل الصوت",
 			"ffmpeg": "تنزيل مكتبة ffmpeg ومكوناتها",
+			"classWorker": "تنزيل برنامج ffmpeg class worker",
+			"core": "تنزيل نواة ffmpeg",
+			"wasm": "تنزيل ffmpeg wasm",
 			"worker": "تنزيل ffmpeg worker"
 		},
 		"noPlaylists": "لا توجد قوائم تشغيل",

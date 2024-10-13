@@ -76,6 +76,9 @@
 			"video": "Загрузка видео",
 			"audio": "Загрузка аудио",
 			"ffmpeg": "Загрузка библиотеки и компонентов ffmpeg",
+			"classWorker": "Загрузка класса ffmpeg worker",
+			"core": "Загрузка ядра ffmpeg",
+			"wasm": "Загрузка ffmpeg wasm",
 			"worker": "Загрузка ffmpeg worker"
 		},
 		"noPlaylists": "Нет списков воспроизведения",

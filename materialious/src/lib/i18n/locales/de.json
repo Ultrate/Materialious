@@ -76,6 +76,9 @@
 			"video": "Video wird heruntergeladen",
 			"audio": "Audio herunterladen",
 			"ffmpeg": "Herunterladen der ffmpeg-Bibliothek und -Komponenten",
+			"classWorker": "Herunterladen des ffmpeg-Klassenarbeiters",
+			"core": "ffmpeg-Kern wird heruntergeladen",
+			"wasm": "ffmpeg wasm wird heruntergeladen",
 			"worker": "ffmpeg worker wird heruntergeladen"
 		},
 		"noPlaylists": "Keine Wiedergabelisten",
