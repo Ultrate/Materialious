@@ -16,5 +16,13 @@
 	"region": "منطقة",
 	"noResult": "لا توجد نتائج",
 	"language": "لغة",
-	"transcript": "نص"
+	"transcript": "نص",
+	"noCaptionData": "لا تحتوي التعليقات التوضيحية على أي بيانات.",
+	"selectLang": "اختر اللغة",
+	"letterCase": "حالة الحروف للألقاب",
+	"hideReplies": "إخفاء الردود",
+	"hideVideo": "إخفاء الفيديو",
+	"syncParty": {
+		"userJoined": "انضم المستخدم إلى مجموعة المشاهدة الخاصة بك."
+	}
 }
