@@ -9,6 +9,7 @@
 	"title": "Заголовок",
 	"searchPlaceholder": "Искать...",
 	"delete": "Удалить",
+	"donate": "Пожертвовать",
 	"deleteAllHistory": "Удалить всю историю",
 	"skipping": "Пропускаю",
 	"replies": "ответ(а/ов)",
@@ -111,12 +112,18 @@
 			"miniPlayer": "Мини-плеер",
 			"proxyVideos": "Прокси видео",
 			"backgroundPlay": "Играть аудио в фоне",
-			"dash": "Использовать DASH"
+			"dash": "Использовать DASH",
+			"silenceSkipper": "Шкипер тишины (экспериментальный)",
+			"youtubeJsFallback": "Резервная обработка локального видео",
+			"youtubeJsAlways": "Всегда используйте локальную обработку видео"
 		},
 		"bookmarklet": "Закладка",
 		"instanceUrl": "URL инстанса",
 		"sponsors": {
 			"sponsor": "Спонсор",
+			"disableToast": "Отключить тост",
+			"disableTimeline": "Отключить сегменты на временной шкале",
+			"Catagories": "Категории",
 			"unpaidSelfPromotion": "Самореклама",
 			"interactionReminder": "Напоминание о подписке",
 			"intermissionIntroAnimation": "Интро",

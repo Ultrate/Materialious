@@ -23,6 +23,85 @@
 	"hideReplies": "إخفاء الردود",
 	"hideVideo": "إخفاء الفيديو",
 	"syncParty": {
-		"userJoined": "انضم المستخدم إلى مجموعة المشاهدة الخاصة بك."
-	}
+		"userJoined": "انضم المستخدم إلى مجموعة المشاهدة الخاصة بك.",
+		"userLeft": "لقد غادر المستخدم حفلة المشاهدة الخاصة بك.",
+		"userOnPrivatePage": "المستخدم يشاهد حاليًا صفحة خاصة، سيتم استئناف المزامنة قريبًا."
+	},
+	"videoTabs": {
+		"all": "الجميع",
+		"videos": "الفيديوهات",
+		"playlists": "قوائم التشغيل",
+		"channels": "القنوات",
+		"shorts": "سراويل",
+		"streams": "الجداول"
+	},
+	"subscriptions": {
+		"manageSubscriptions": "إدارة الاشتراكات"
+	},
+	"playlist": {
+		"createPlaylist": "إنشاء قائمة تشغيل",
+		"public": "عام",
+		"unlisted": "غير مدرج",
+		"private": "خاص",
+		"playVideos": "تشغيل الفيديوهات",
+		"shuffleVideos": "تشغيل مقاطع الفيديو بشكل عشوائي",
+		"loopPlaylist": "قائمة تشغيل متكررة"
+	},
+	"thumbnail": {
+		"live": "يعيش",
+		"failedToLoadImage": "فشل تحميل الصورة"
+	},
+	"layout": {
+		"customize": "تخصيص",
+		"theme": {
+			"theme": "سمة",
+			"darkMode": "الوضع المظلم",
+			"lightMode": "وضع الضوء",
+			"color": "لون"
+		},
+		"searchSuggestions": "اقتراحات البحث",
+		"previewVideoOnHover": "معاينة الفيديو عند التمرير فوقه",
+		"expandDescription": "توسيع الوصف افتراضيا",
+		"expandComments": "توسيع التعليقات بشكل افتراضي",
+		"dataPreferences": {
+			"content": "هل تريد استيراد/تصدير الاشتراكات أو تغيير كلمة المرور أو حذف الحساب؟ انقر هنا وانتقل إلى أسفل الصفحة.",
+			"dataPreferences": "تفضيلات البيانات"
+		},
+		"player": {
+			"title": "لاعب",
+			"autoPlay": "تشغيل الفيديو تلقائيًا",
+			"alwaysLoopVideo": "تكرار الفيديو دائمًا",
+			"savePlaybackPosition": "حفظ موضع التشغيل",
+			"listenByDefault": "استمع افتراضيا",
+			"theatreModeByDefault": "وضع المسرح افتراضيا",
+			"autoPlayNextByDefault": "التشغيل التلقائي التالي افتراضيًا",
+			"miniPlayer": "مشغل صغير",
+			"proxyVideos": "فيديوهات بالوكالة",
+			"backgroundPlay": "تشغيل الصوت في الخلفية",
+			"dash": "داش",
+			"silenceSkipper": "قائد الصمت (تجريبي)",
+			"youtubeJsFallback": "خيار بديل لمعالجة الفيديو المحلي",
+			"youtubeJsAlways": "استخدم دائمًا معالجة الفيديو المحلية"
+		},
+		"bookmarklet": "إشارة مرجعية",
+		"instanceUrl": "عنوان URL للمثيل",
+		"sponsors": {
+			"sponsor": "راعي",
+			"disableToast": "تعطيل الخبز المحمص",
+			"disableTimeline": "تعطيل المقاطع على الجدول الزمني",
+			"Catagories": "الفئات",
+			"unpaidSelfPromotion": "غير مدفوع الأجر/الترويج الذاتي",
+			"interactionReminder": "تذكير بالتفاعل (اشتراك)",
+			"intermissionIntroAnimation": "الرسوم المتحركة للاستراحة/المقدمة",
+			"credits": "بطاقات النهاية/الاعتمادات",
+			"preViewRecapHook": "معاينة/ملخص/مقطع موسيقي",
+			"tangentJokes": "حشو مماس/نكات"
+		},
+		"deArrow": {
+			"title": "دي أرو",
+			"thumbnailInstanceUrl": "عنوان URL لنسخة الصورة المصغرة",
+			"titleOnly": "العنوان فقط"
+		}
+	},
+	"subscribe": "شترك"
 }

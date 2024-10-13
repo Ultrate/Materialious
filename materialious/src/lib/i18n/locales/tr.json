@@ -9,6 +9,7 @@
 	"title": "Başlık",
 	"searchPlaceholder": "Ara...",
 	"delete": "Sil",
+	"donate": "Bağış yapmak",
 	"deleteAllHistory": "Tüm geçmişi sil",
 	"skipping": "Atla",
 	"replies": "cevaplar",
@@ -122,12 +123,17 @@
 			"miniPlayer": "Mini oynatıcı",
 			"proxyVideos": "Vekil Sunucu videolar",
 			"backgroundPlay": "Arka planda ses çal",
-			"silenceSkipper": "Sessizlik atlayıcı (Deneysel)"
+			"dash": "Kısa çizgi",
+			"silenceSkipper": "Sessizlik atlayıcı (Deneysel)",
+			"youtubeJsFallback": "Yerel video işleme geri dönüşü",
+			"youtubeJsAlways": "Her zaman yerel video işlemeyi kullan"
 		},
 		"bookmarklet": "Yer işareti",
 		"instanceUrl": "Instance URL",
 		"sponsors": {
 			"sponsor": "Sponsor",
+			"disableToast": "Tostu devre dışı bırak",
+			"disableTimeline": "Zaman çizelgesindeki segmentleri devre dışı bırak",
 			"Catagories": "Kategoriler",
 			"unpaidSelfPromotion": "Ücretsiz/Kişisel Promosyon",
 			"interactionReminder": "Etkileşim Hatırlatıcısı (Abone Ol)",

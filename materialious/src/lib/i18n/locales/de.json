@@ -9,6 +9,7 @@
 	"title": "Titel",
 	"searchPlaceholder": "Suchen...",
 	"delete": "Löschen",
+	"donate": "Spenden",
 	"deleteAllHistory": "Gesamten Verlauf löschen",
 	"skipping": "Überspringen",
 	"replies": "antworten",
@@ -110,12 +111,18 @@
 			"miniPlayer": "Miniplayer",
 			"proxyVideos": "Proxy-Videos",
 			"backgroundPlay": "Ton im Hintergrund abspielen",
-			"dash": "Bindestrich"
+			"dash": "Bindestrich",
+			"silenceSkipper": "Silence Skipper (Experimentell)",
+			"youtubeJsFallback": "Fallback für lokale Videoverarbeitung",
+			"youtubeJsAlways": "Verwenden Sie immer die lokale Videoverarbeitung"
 		},
 		"bookmarklet": "Lesezeichen",
 		"instanceUrl": "URL der Instanz",
 		"sponsors": {
 			"sponsor": "Sponsor",
+			"disableToast": "Toast deaktivieren",
+			"disableTimeline": "Segmente auf der Zeitleiste deaktivieren",
+			"Catagories": "Kategorien",
 			"unpaidSelfPromotion": "Unbezahlte / Selbstständige Förderung",
 			"interactionReminder": "Interaktionserinnerung (Abonnieren)",
 			"intermissionIntroAnimation": "Unterbrechung/Einstiegsanimation",
