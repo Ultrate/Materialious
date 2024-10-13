@@ -1,0 +1,148 @@
+{
+	"enabled": "مُمَكَّن",
+	"copyUrl": "نسخ الرابط",
+	"loadMore": "تحميل المزيد",
+	"views": "المشاهدات",
+	"videos": "فيديوهات",
+	"cancel": "يلغي",
+	"create": "يخلق",
+	"title": "عنوان",
+	"searchPlaceholder": "البحث (ctrl + k)",
+	"delete": "يمسح",
+	"deleteAllHistory": "حذف كل التاريخ",
+	"skipping": "التخطي",
+	"replies": "الردود",
+	"region": "منطقة",
+	"noResult": "لا توجد نتائج",
+	"language": "لغة",
+	"transcript": "نص",
+	"noCaptionData": "لا تحتوي التعليقات التوضيحية على أي بيانات.",
+	"selectLang": "اختر اللغة",
+	"letterCase": "حالة الحروف للألقاب",
+	"hideReplies": "إخفاء الردود",
+	"hideVideo": "إخفاء الفيديو",
+	"syncParty": {
+		"userJoined": "انضم المستخدم إلى مجموعة المشاهدة الخاصة بك.",
+		"userLeft": "لقد غادر المستخدم حفلة المشاهدة الخاصة بك.",
+		"userOnPrivatePage": "المستخدم يشاهد حاليًا صفحة خاصة، سيتم استئناف المزامنة قريبًا."
+	},
+	"videoTabs": {
+		"all": "الجميع",
+		"videos": "الفيديوهات",
+		"playlists": "قوائم التشغيل",
+		"channels": "القنوات",
+		"shorts": "سراويل",
+		"streams": "الجداول"
+	},
+	"subscriptions": {
+		"manageSubscriptions": "إدارة الاشتراكات"
+	},
+	"playlist": {
+		"createPlaylist": "إنشاء قائمة تشغيل",
+		"public": "عام",
+		"unlisted": "غير مدرج",
+		"private": "خاص",
+		"playVideos": "تشغيل الفيديوهات",
+		"shuffleVideos": "تشغيل مقاطع الفيديو بشكل عشوائي",
+		"loopPlaylist": "قائمة تشغيل متكررة"
+	},
+	"thumbnail": {
+		"live": "يعيش",
+		"failedToLoadImage": "فشل تحميل الصورة"
+	},
+	"pages": {
+		"home": "بيت",
+		"trending": "الأكثر رواجًا",
+		"subscriptions": "الاشتراكات",
+		"history": "تاريخ",
+		"playlists": "قوائم التشغيل"
+	},
+	"subscribers": "المشتركين",
+	"unsubscribe": "إلغاء الاشتراك",
+	"loginRequired": "مطلوب تسجيل الدخول",
+	"player": {
+		"audioOnly": "صوت فقط",
+		"theatreMode": "وضع المسرح",
+		"share": {
+			"title": "يشارك",
+			"materialiousLink": "نسخ الرابط المادي",
+			"invidiousRedirect": "نسخ رابط إعادة التوجيه Invidious",
+			"youtubeLink": "نسخ رابط اليوتيوب"
+		},
+		"download": "تحميل",
+		"downloadSteps": {
+			"merging": "دمج الفيديو والصوت معًا",
+			"video": "تحميل الفيديو",
+			"audio": "تحميل الصوت",
+			"ffmpeg": "تنزيل مكتبة ffmpeg ومكوناتها",
+			"classWorker": "تنزيل برنامج ffmpeg class worker",
+			"core": "تنزيل نواة ffmpeg",
+			"wasm": "تنزيل ffmpeg wasm",
+			"worker": "تنزيل ffmpeg worker"
+		},
+		"noPlaylists": "لا توجد قوائم تشغيل",
+		"unableToLoadComments": "غير قادر على تحميل التعليقات",
+		"addToPlaylist": "أضف إلى قائمة التشغيل"
+	},
+	"layout": {
+		"interface": "الواجهة",
+		"star": "قم بإضافتنا على Github!",
+		"syncParty": "حفلة المزامنة",
+		"syncPartyWarning": "يرجى ملاحظة أن عنوان IP الخاص بك سيكون مرئيًا للمستخدمين الذين تدعوهم.",
+		"startSyncParty": "بدء حفلة المزامنة",
+		"endSyncParty": "نهاية حفلة المزامنة",
+		"notifications": "إشعارات",
+		"noNewNotifications": "لا يوجد إشعارات جديدة هنا",
+		"settings": "إعدادات",
+		"login": "تسجيل الدخول",
+		"logout": "تسجيل الخروج",
+		"customize": "تخصيص",
+		"theme": {
+			"theme": "سمة",
+			"darkMode": "الوضع المظلم",
+			"lightMode": "وضع الضوء",
+			"color": "لون"
+		},
+		"searchSuggestions": "اقتراحات البحث",
+		"previewVideoOnHover": "معاينة الفيديو عند التمرير فوقه",
+		"expandDescription": "توسيع الوصف افتراضيا",
+		"expandComments": "توسيع التعليقات بشكل افتراضي",
+		"dataPreferences": {
+			"content": "هل تريد استيراد/تصدير الاشتراكات أو تغيير كلمة المرور أو حذف الحساب؟ انقر هنا وانتقل إلى أسفل الصفحة.",
+			"dataPreferences": "تفضيلات البيانات"
+		},
+		"player": {
+			"title": "لاعب",
+			"autoPlay": "تشغيل الفيديو تلقائيًا",
+			"alwaysLoopVideo": "تكرار الفيديو دائمًا",
+			"savePlaybackPosition": "حفظ موضع التشغيل",
+			"listenByDefault": "استمع افتراضيا",
+			"theatreModeByDefault": "وضع المسرح افتراضيا",
+			"autoPlayNextByDefault": "التشغيل التلقائي التالي افتراضيًا",
+			"miniPlayer": "مشغل صغير",
+			"proxyVideos": "فيديوهات بالوكالة",
+			"backgroundPlay": "تشغيل الصوت في الخلفية",
+			"dash": "داش",
+			"silenceSkipper": "قائد الصمت (تجريبي)"
+		},
+		"bookmarklet": "إشارة مرجعية",
+		"instanceUrl": "عنوان URL للمثيل",
+		"sponsors": {
+			"sponsor": "راعي",
+			"disableToast": "تعطيل الخبز المحمص",
+			"Catagories": "الفئات",
+			"unpaidSelfPromotion": "غير مدفوع الأجر/الترويج الذاتي",
+			"interactionReminder": "تذكير بالتفاعل (اشتراك)",
+			"intermissionIntroAnimation": "الرسوم المتحركة للاستراحة/المقدمة",
+			"credits": "بطاقات النهاية/الاعتمادات",
+			"preViewRecapHook": "معاينة/ملخص/مقطع موسيقي",
+			"tangentJokes": "حشو مماس/نكات"
+		},
+		"deArrow": {
+			"title": "دي أرو",
+			"thumbnailInstanceUrl": "عنوان URL لنسخة الصورة المصغرة",
+			"titleOnly": "العنوان فقط"
+		}
+	},
+	"subscribe": "يشترك"
+}
